@@ -38,6 +38,8 @@ Download K2-D2, open the zip file, and drag the included `BepInEx` folder into t
 
 Thanks first for downloading.
 
+* Thanks to [Cfloutier](https://github.com/Cfloutier) for writing this mod !
+
 * Thanks to [Mole](https://github.com/Mole1803) for the hard work on Circularize ! 
 
 * Thanks to [schlosrat (he/him)](https://forum.kerbalspaceprogram.com/index.php?/profile/141963-schlosrat/) for testing and many help on code. Especially for the node creation.
