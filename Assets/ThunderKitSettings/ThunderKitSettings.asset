@@ -15,7 +15,7 @@ MonoBehaviour:
   FirstLoad: 1
   ShowOnStartup: 1
   GameExecutable: KSP2_x64.exe
-  GamePath: D:\KSP\KSP2Reduxed
+  GamePath: D:\ksp2redux\build
   Is64Bit: 1
   DateTimeFormat: HH:mm:ss:fff
   CreatedDateFormat: MMM/dd HH:mm:ss
@@ -27,8 +27,8 @@ MonoBehaviour:
   CachedImageCount: 0
   CacheSize: 0
   MarkdownOpenMode: 1
-  SelectedPipeline: {fileID: 11400000, guid: ed26388303653f5419f1d41d16a5b016, type: 2}
-  SelectedManifest: {fileID: 11400000, guid: f72ed2825f7838b4691cf783f28dd055, type: 2}
+  SelectedPipeline: {fileID: 0}
+  SelectedManifest: {fileID: 0}
   QuickAccessPipelines:
   - {fileID: 11400000, guid: ed26388303653f5419f1d41d16a5b016, type: 2}
   QuickAccessManifests:

@@ -281,13 +281,13 @@
       "dependencies": {}
     },
     "ksp2community.ksp2unitytools": {
-      "version": "https://github.com/foonix/KSP2UnityTools.git#feature/run_redux_in_editor",
+      "version": "https://github.com/KSP2Community/KSP2UnityTools.git#dev",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.addressables": "1.21.18"
       },
-      "hash": "09f5ae3c092b697d45cda6063c4c990055893139"
+      "hash": "9d37bfc9f79f2334e5d44291fb52d43360d7e830"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

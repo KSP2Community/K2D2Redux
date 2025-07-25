@@ -1,0 +1,25 @@
+{
+  "spec": "2.0",
+  "mod_id": "K2D2",
+  "name": "Sample Mod",
+  "author": "Christophe Floutier, cheese3660",
+  "description": "Your KSP2 Automech",
+  "source": "https://github.com/KSP2Community/K2D2Redux",
+  "version": "2.0.0",
+  "version_check": "https://raw.githubusercontent.com/KSP2Community/K2D2Redux/Assets/K2D2/swinfo.json",
+  "ksp2_version": {
+    "min": "0.2.3.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "SpaceWarp2",
+      "version": {
+        "min": "2.0.0",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": [],
+  "main-assembly": "K2D2.dll"
+}
